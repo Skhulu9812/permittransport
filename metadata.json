@@ -1,0 +1,5 @@
+{
+  "name": "PTA Permit Management System",
+  "description": "A high-security public transport permit management system for registration, tracking, and disc generation with barcode integration.",
+  "requestFramePermissions": []
+}
